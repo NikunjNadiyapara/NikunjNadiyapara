@@ -1,10 +1,10 @@
 ## Hi, I'm Nikunj 👋
 
-💻 Passionate and dedicated web and app developer from Rajkot, Gujarat, India  
-🎓 Computer science student at GTU
-🖥 Design and develop websites and app user friendly 
-🚀 Built my skills through real-world projects and hands-on learning  
-🌐 I love creating full-stack web apps and exploring new technologies  
+💻 Passionate and dedicated web and app developer from Rajkot, Gujarat, India<br/>
+🎓 Computer science student at GTU<br/>
+🖥 Design and develop websites and app user friendly<br/>
+🚀 Built my skills through real-world projects and hands-on learning<br/>
+🌐 I love creating full-stack web apps and exploring new technologies<br/>  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_nik_2610) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikunj-nadiyapara-8b9b412a9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikunjnadiyapara.work@gmail.com) 
